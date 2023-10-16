@@ -5,4 +5,5 @@ import App from './App.vue'
 const app = createApp(App)
 app.mount('#app')
 
-setTimeout(() => app.unmount(), 5000)
+// 10 - life - cycle - hooks
+// setTimeout(() => app.unmount(), 5000)
